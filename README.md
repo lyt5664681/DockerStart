@@ -117,7 +117,7 @@ https://cr.console.aliyun.com/?spm=5176.8351553.products-recent.dcr.6cd61991a9EB
 
 如果提示下载报错或者下载慢可以将安装路径下的boot2docker.iso拷贝到对应的缓存目录
 
-![img](file:///C:/Users/李云涛/Documents/My Knowledge/temp/924bad7d-e1ee-4714-baa8-490c31464836/128/index_files/6096341e-75f2-4ee2-9f74-42c401e56866.png)
+![img](6096341e-75f2-4ee2-9f74-42c401e56866-1588524651656.png)
 
 ### 2.1.4. 运行
 
@@ -125,7 +125,7 @@ https://cr.console.aliyun.com/?spm=5176.8351553.products-recent.dcr.6cd61991a9EB
 
 直到出现下图样式，说明docker启动成功，每次计算机重启第一次运行docker都需要quickstart
 
-![img](file:///C:/Users/李云涛/Documents/My Knowledge/temp/924bad7d-e1ee-4714-baa8-490c31464836/128/index_files/b0b8d946-9c4a-4d5c-a237-f13a96d3a9e6.png)
+![img](b0b8d946-9c4a-4d5c-a237-f13a96d3a9e6-1588524653539.png)
 
 
 
@@ -161,11 +161,11 @@ sudo docker run hello-world
 
 helloworld运行成功！！安装测试成功！！！
 
-![img](file:///C:/Users/李云涛/Documents/My Knowledge/temp/924bad7d-e1ee-4714-baa8-490c31464836/128/index_files/27884990-c60c-44b9-9594-37e210ae9c51.png)
+![img](27884990-c60c-44b9-9594-37e210ae9c51-1588524657012.png)
 
 或者使用这个脚本全自动安装
 
-[![img](file:///C:/Users/李云涛/Documents/My Knowledge/temp/924bad7d-e1ee-4714-baa8-490c31464836/128/index_files/667318234.png)](wiz://open_attachment?guid=5061c02e-0795-4eb6-8b04-2b8f6cd60a03)
+[![img](667318234-1588524660387.png)](wiz://open_attachment?guid=5061c02e-0795-4eb6-8b04-2b8f6cd60a03)
 
 ### docker-compose
 
@@ -206,11 +206,11 @@ sudo systemctl restart docker
 
 ### 4.1.1 docker run
 
-![img](file:///C:/Users/李云涛/Documents/My Knowledge/temp/924bad7d-e1ee-4714-baa8-490c31464836/128/index_files/75df6db4-4eb9-4efd-9631-30a209d2bb65.jpg)
+![img](75df6db4-4eb9-4efd-9631-30a209d2bb65.jpg)
 
 ## 4.2 命令大全
 
-![img](file:///C:/Users/李云涛/Documents/My Knowledge/temp/924bad7d-e1ee-4714-baa8-490c31464836/128/index_files/0.9347668104711009.png)
+![img](0.9347668104711009-1588524665858.png)
 
 以下列举部分，详细以及命令的参数参考
 
@@ -356,7 +356,9 @@ Dockerfile是用来构建Docker镜像的构建文件，是由一系列命令和�
 https://www.jianshu.com/p/eebaf6e0cbb6
 ```
 
-## ![img](file:///C:/Users/李云涛/Documents/My Knowledge/temp/924bad7d-e1ee-4714-baa8-490c31464836/128/index_files/26048e3c-cac1-40cc-9e51-752968949db1.jpg)6.1 构建Dockerfile 
+## ![img](26048e3c-cac1-40cc-9e51-752968949db1-1588524670851.jpg)
+
+## 6.1 构建Dockerfile 
 
 1. 编写dockerfile文件
 2. docker build
