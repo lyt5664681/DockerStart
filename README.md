@@ -38,7 +38,7 @@ Person p3 = new Person();
 
 ## 1.4 Docker架构
 
-![“docker 架构图 详解”的图片搜索结果](file:///C:/Users/李云涛/Documents/My Knowledge/temp/924bad7d-e1ee-4714-baa8-490c31464836/128/index_files/0.4997560753416792.png)
+![“docker 架构图 详解”的图片搜索结果](0.4997560753416792-1588524581458.png)
 
 - Client：客户端（shell）
 
@@ -62,11 +62,11 @@ Person p3 = new Person();
 
 *一个典型的tomcat image，只有tomcat是可读写的，其他都是只读的*
 
-![img](file:///C:/Users/李云涛/Documents/My Knowledge/temp/924bad7d-e1ee-4714-baa8-490c31464836/128/index_files/64a35f2c-f7c3-4d9d-b90c-dd9497a331ff.jpg)
+![img](64a35f2c-f7c3-4d9d-b90c-dd9497a331ff-1588524584098.jpg)
 
 ## 1.5 与虚拟机对比
 
-![img](file:///C:/Users/李云涛/Documents/My Knowledge/temp/924bad7d-e1ee-4714-baa8-490c31464836/128/index_files/0.8703736636320063.png)
+![img](0.8703736636320063-1588524585834.png)
 
 ### 1.5.1 为什么docker比虚拟机快
 
@@ -111,7 +111,7 @@ https://cr.console.aliyun.com/?spm=5176.8351553.products-recent.dcr.6cd61991a9EB
 
 安装后执行Docker Quickstart Terminal
 
-![img](file:///C:/Users/李云涛/Documents/My Knowledge/temp/924bad7d-e1ee-4714-baa8-490c31464836/128/index_files/f275b69f-393c-4347-a29d-faf214b9f28f.jpg)
+![img](f275b69f-393c-4347-a29d-faf214b9f28f-1588524588794.jpg)
 
 ### 2.1.3. 替换ISO
 
